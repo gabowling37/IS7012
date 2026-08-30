@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <!--<link rel="stylesheet" type="text/css" href="bowlingy_week2_exercise1.css" />-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+
+        div#opener {
+            font-family: "Manrope", sans-serif;
+            font-size: 1.5em;
+            max-width: 800px;
+            margin-bottom: 40px;
+        }
+
+        div#menu {
+            width: fit-content;
+            font-family: "Cormorant Garamond", serif;
+            background-color: #fff3d9;
+            color: #363636;
+            padding: 20px;
+            margin-bottom: 40px;
+            border: 1px solid #adadad;
+            box-shadow: 0 0 8px 2px #e6e6e6;
+        }
+
+        div#menu h1 {
+            text-align: center;
+            margin: 0 0 20px 0;
+        }
+
+        div#menu hr {
+            border: none;
+            width: 80%;
+            height: 2px;
+            margin: 0 auto;
+            background-color: #6ea8ff;
+        }
+
+        div.menu-section {
+            display: inline-block;
+        }
+
+        div.menu-section h2 {
+            margin: 20px 0 8px 0;
+        }
+
+        div#food {
+            margin-right: 40px;
+        }
+
+        th {
+            text-align: left;
+        }
+
+        th:first-child {
+            width: 150px;
+        }
+
+        form {
+            width: fit-content;
+            max-width: 500px;
+            font-family: "Manrope", sans-serif;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #f5f5f5;
+            box-shadow: 0 0 8px 2px #d1d1d1;
+        }
+
+        form p {
+            margin-top: 0;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        input[type="number"] {
+            width: 40px;
+        }
+
+        input[type="submit"] {
+            background-color: #004CBF;
+            color: #fff;
+            border: 0;
+            border-radius: 4px;
+            padding: 5px;
+            font-family: inherit;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #002F75;
+        }
+
+        input[type="submit"]:active {
+            background-color: #10204a;
+        }
+    </style>
+    <title>Week 2: Exercise 1</title>
+</head>
+<body>
+    <div id="opener">
+        <strong>Welcome to Greg's Food Shack!</strong> Our menu may be small, but our food packs a flavorful punch. 
+        We're excited you're here, and we can't wait to share a meal with you!
+    </div>
+    <div id="menu">
+        <h1>Menu</h1>
+        <hr />
+        <div id="food" class="menu-section">
+            <h2>Food</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Burger</td>
+                        <td>$7.50</td>
+                    </tr>
+                    <tr>
+                        <td>Hotdog</td>
+                        <td>$5.50</td>
+                    </tr>
+                    <tr>
+                        <td>Chicken Sandwich</td>
+                        <td>$6.50</td>
+                    </tr>
+                    <tr>
+                        <td>Black Bean Burger</td>
+                        <td>$7.50</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="drinks" class="menu-section">
+            <h2>Drinks</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Item</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Water</td>
+                        <td>$0.50</td>
+                    </tr>
+                    <tr>
+                        <td>Soda</td>
+                        <td>$3.00</td>
+                    </tr>
+                    <tr>
+                        <td>Lemonade</td>
+                        <td>$3.50</td>
+                    </tr>
+                    <tr>
+                        <td>Sweet Tea</td>
+                        <td>$3.50</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <form>
+        <p>
+            Place your order here. Select a food item and a drink, and be sure to enter the quantity of each item.
+            We'll get your order to you right away!
+        </p>
+        <label for="selFood">Select a food item:</label><br />
+        <select id="selFood" name="selFood">
+            <option value="" disabled selected>Choose an option</option>
+            <option value="burger">Burger</option>
+            <option value="hotdog">Hotdog</option>
+            <option value="chicken-sandwich">Chicken Sandwich</option>
+            <option value="black-bean-burger">Black Bean Burger</option>
+        </select><br />
+        <label for="numFoodQuantity">Quantity:</label><br />
+        <input type="number" id="numFoodQuantity" name="numFoodQuantity" min="1" /><br />
+        <br />
+        <label for="selDrink">Select a drink:</label><br />
+        <select id="selDrink" name="selDrink">
+            <option value="" disabled selected>Choose an option</option>
+            <option value="water">Water</option>
+            <option value="soda">Soda</option>
+            <option value="lemonade">Lemonade</option>
+            <option value="sweet-tea">Sweet Tea</option>
+        </select><br />
+        <label for="numDrinkQuantity">Quantity:</label><br />
+        <input type="number" id="numDrinkQuantity" name="numDrinkQuantity" min="1" /><br />
+        <br />
+        <input type="submit" value="Submit Order" />
+    </form>
+</body>
+</html>
