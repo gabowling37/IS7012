@@ -4,7 +4,9 @@
 
 div#opener {
     font-family: "Manrope", sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
+    max-width: 800px;
+    margin-bottom: 40px;
 }
 
 div#menu {
