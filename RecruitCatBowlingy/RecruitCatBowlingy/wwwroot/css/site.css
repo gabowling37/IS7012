@@ -1,0 +1,112 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+img.hero-image {
+    width: 100%;
+}
+
+.section-header {
+    margin-top: 30px;
+}
+
+/* --- Services Offered --- */
+.accordion-body {
+    margin-left: 20px;
+}
+
+/* --- Testimonials --- */
+#carouselTestimonials {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.carousel-item .card {
+    max-width: 350px;
+    margin: 40px auto;
+    padding: 15px;
+    background: var(--bs-primary-bg-subtle);
+    box-shadow: 4px 4px 8px 0 #b6b6b6;
+}
+
+.quote {
+    font-style: italic;
+}
+
+
+/* --- Contact Us --- */
+#contact-us-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 25px;
+    border: 1px solid #c6c6c6;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 0 #b6b6b6;
+}
+
+#contact-us-form label.form-label {
+    font-weight: bold;
+}
+
+
+/* --- Our Team Tab --- */
+#team-card-container {
+    text-align: center;
+    max-width: 950px;
+    margin: 30px auto;
+}
+
+#team-card-container > .card {
+    text-align: left;
+    max-width: 800px;
+    box-shadow: 0 4px 16px 0 #373737;
+}
+
+#team-card-container > .card:nth-child(2) {
+    margin-left: auto;
+}
+
+img.img-fluid {
+    width: 100%;
+}
+
+.card-text.role {
+    color: #fff;
+    font-style: italic;
+}
+
+@media (max-width: 767px) {
+    #team-card-container > .card {
+        max-width: 400px !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

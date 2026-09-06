@@ -1,0 +1,191 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<img src="/images/rory-hero.jpg" class="hero-image" alt="A gray cat laying on it's side with face and belly toward the camera and a small, blue wicker ball at its front paws." />
+
+<p class="lead">
+    <strong>Thanks for visiting Handy Cat Co!</strong> Our passion is helping people to live joyful, healthy lives. We do that by taking care of two things: <strong>you</strong> and 
+    <strong>your home</strong>. Our cats are the very best in the industry. You won't regret putting you and your home in their paws. We guarantee you'll receive purrfect service at an affordable price.
+</p>
+
+<!--- Services Offered Section --->
+<h1 class="section-header">Services Offered</h1>
+<div class="accordion accordion-flush" id="accordionServices">
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                Home Handyman Services
+            </button>
+        </h2>
+        <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionServices">
+            <div class="accordion-body">
+                <p>
+                    Whatever you need done around the house, we have you covered. From fixing a broken lightswitch, to installing a new ceiling fan, to repairing a hole in your wall, we have 
+                    the skills and experience needed to get your home in top shape.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                Landscaping and Yard Work
+            </button>
+        </h2>
+        <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionServices">
+            <div class="accordion-body">
+                <p>
+                    Mowing, trimming, watering, weeding, seeding, fertilizing, planting... Taking care of your yard can be overwhelming. Let us take care of it for you. You'll go from worried
+                    to wowed, enjoying your beautiful yard all year long.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                Accupuncture Treatment
+            </button>
+        </h2>
+        <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionServices">
+            <div class="accordion-body">
+                <p>
+                    Kona's claws feel like magic. Her skilled accupuncture techniques have been proven to heal both the mind and body. A session with her will be the best hour of your life.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                Yoga
+            </button>
+        </h2>
+        <div id="flush-collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionServices">
+            <div class="accordion-body">
+                <p>
+                    No one does yoga better than cats. They are born to stretch, twist, bend, and relax. Come find out why cat yoga is the greatest yoga.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="accordion-item">
+        <h2 class="accordion-header">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                Cooking Lessons
+            </button>
+        </h2>
+        <div id="flush-collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionServices">
+            <div class="accordion-body">
+                <p>
+                    Cats are known for their biscuit-making. But Rory can cook anything and has a passion for teaching others. Whatever your skill level, there's always something new to learn
+                    at Handy Cats Co.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--- Testimonials Section --->
+<h1 class="text-center section-header">Testimonials</h1>
+<div id="carouselTestimonials" class="carousel slide" data-bs-theme="dark">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselTestimonials" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselTestimonials" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselTestimonials" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselTestimonials" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    </div>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title reviewer">Joey V.</h5>
+                    <p class="card-text quote">
+                        "Kona gave me the best accupunture of my life! It was a little painful, but it cured all of my allergies. Recommend 100%."
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title reviewer">Brandon P.</h5>
+                    <p class="card-text quote">
+                        "My home was out of control, but one call to Handy Cats Co changed my life. Rory turned my yard from a hazard to an oasis! I can't imagine where I'd be without them."
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title reviewer">Barry L.</h5>
+                    <p class="card-text quote">
+                        "After many trips to the doctor and thousands of dollars down the drain, I was losing hope. In a fit of desperation, I contacted Handy Cats Co. Two accupuncture sessions
+                        with Kona was all it took for me to be healed. She's truly a miracle worker!"
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title reviewer">Pete R.</h5>
+                    <p class="card-text quote">
+                        "I've used Handy Cats Co dozens of time. Their hustle and pride in their work is second to none."
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselTestimonials" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselTestimonials" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+<!--- Contact Us Form --->
+<div id="contact-us-container">
+    <h1>Contact Us</h1>
+    <form id="contact-us-form">
+        <div class="mb-3 col-md-6">
+            <label for="customerEmail" class="form-label">Your Email Address</label>
+            <input type="email" class="form-control" id="customerEmail">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Select the services you are interested in.</label>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="services" value="srvHandyman" id="srvHandyman">
+                <label class="form-check-label" for="srvHandyman">Home Handyman Services</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="services" value="srvLandYar" id="srvLandYard">
+                <label class="form-check-label" for="srvLandYard">Landscaping and Yard Work</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="services" value="srvAccupuncture" id="srvAccupuncture">
+                <label class="form-check-label" for="srvAccupuncture">Accupuncture Treatment</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="services" value="srvYoga" id="srvYoga">
+                <label class="form-check-label" for="srvYoga">Yoga</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="services" value="srvCooking" id="srvCooking">
+                <label class="form-check-label" for="srvCooking">Cooking Lessons</label>
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="requestDescription" class="form-label">Tell us more about what you are interested in.</label>
+            <textarea class="form-control" id="requestDescription" rows="4"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - RecruitCatBowlingy</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/RecruitCatBowlingy.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar bg-dark navbar-expand-sm navbar-toggleable-sm border-bottom box-shadow" data-bs-theme="dark">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-page="/Index">
+                    <svg id="nav-logo" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                        <ellipse cx="100" cy="130" rx="55" ry="45" />
+                        <ellipse cx="45" cy="75" rx="22" ry="28" transform="rotate(-20 45 75)" />
+                        <ellipse cx="80" cy="45" rx="22" ry="28" transform="rotate(-5 80 45)" />
+                        <ellipse cx="120" cy="45" rx="22" ry="28" transform="rotate(5 120 45)" />
+                        <ellipse cx="155" cy="75" rx="22" ry="28" transform="rotate(20 155 75)" />
+                    </svg>
+                    Handy Cats Co
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-area="" asp-page="/OurTeam">Our Team</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top bg-dark text-light footer">
+        <div class="container">
+            <address>
+                <strong>Handy Cats Co</strong><br />
+                428 Friendly Ave<br />
+                Nicholasville, KY 40356<br />
+                <abbr title="Phone">P:</abbr> (859) 894-6883<br />
+                <br />
+                <strong>Greg Bowling</strong><br />
+                <a href="mailto:bowlingy@ucmail.uc.edu">bowlingy@ucmail.uc.edu</a>
+            </address>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
