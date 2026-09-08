@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|c:\\users\\gabow\\source\\repos\\gabowling37\\is7012\\week2\\webapp\\is7012webapplication\\is7012webapplication\\pages\\diceroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|solutionrelative:is7012webapplication\\pages\\diceroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|c:\\users\\gabow\\source\\repos\\gabowling37\\is7012\\week2\\webapp\\is7012webapplication\\is7012webapplication\\pages\\helloworld.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|solutionrelative:is7012webapplication\\pages\\helloworld.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|c:\\users\\gabow\\source\\repos\\gabowling37\\is7012\\week2\\webapp\\is7012webapplication\\is7012webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|solutionrelative:is7012webapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|c:\\users\\gabow\\source\\repos\\gabowling37\\is7012\\week2\\webapp\\is7012webapplication\\is7012webapplication\\pages\\company\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F63421EA-CC1F-4431-32D9-886062F7A344}|IS7012WebApplication\\IS7012WebApplication.csproj|solutionrelative:is7012webapplication\\pages\\company\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HelloWorld.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\HelloWorld.cshtml",
+              "RelativeDocumentMoniker": "IS7012WebApplication\\Pages\\HelloWorld.cshtml",
+              "ToolTip": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\HelloWorld.cshtml",
+              "RelativeToolTip": "IS7012WebApplication\\Pages\\HelloWorld.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T00:42:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiceRoller.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\DiceRoller.cshtml",
+              "RelativeDocumentMoniker": "IS7012WebApplication\\Pages\\DiceRoller.cshtml",
+              "ToolTip": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\DiceRoller.cshtml",
+              "RelativeToolTip": "IS7012WebApplication\\Pages\\DiceRoller.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T00:40:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IS7012WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IS7012WebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T00:37:16.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\Company\\History.cshtml",
+              "RelativeDocumentMoniker": "IS7012WebApplication\\Pages\\Company\\History.cshtml",
+              "ToolTip": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\IS7012WebApplication\\IS7012WebApplication\\Pages\\Company\\History.cshtml",
+              "RelativeToolTip": "IS7012WebApplication\\Pages\\Company\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-01T00:29:18.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

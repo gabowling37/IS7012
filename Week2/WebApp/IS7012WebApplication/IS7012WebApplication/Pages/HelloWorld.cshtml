@@ -1,0 +1,14 @@
+﻿@page
+@model IS7012WebApplication.Pages.HelloWorldModelModel
+@{
+    int currentHour = DateTime.Now.Hour;
+}
+
+@if (currentHour < 12)
+{
+    <h1 class="display-4">Welcome and <strong>Good Morning</strong></h1>
+}
+else
+{
+    <h1 class="display-4">Welcome and <strong>Good Afternoon</strong></h1>
+}

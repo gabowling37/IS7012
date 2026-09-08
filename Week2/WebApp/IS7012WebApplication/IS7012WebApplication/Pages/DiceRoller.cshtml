@@ -1,0 +1,23 @@
+﻿@page
+@model IS7012WebApplication.Pages.DiceRollerModel
+@{
+    //Greg Bowling (bowlingy) - Week 2 Exercise 2
+    int randomNumber = new Random().Next(1, 7); //GENERATES NUMBER BETWEEN 1 and 6
+    int winningNumber = 4;
+    int difference = Math.Abs(randomNumber - winningNumber);
+}
+<h1>Greg Bowling's Magic Dice Roller</h1>
+@if (difference == 0)
+{
+    <p>
+        The winning number was <span class="badge bg-primary">@winningNumber</span>, and you rolled <span class="badge bg-success">@randomNumber</span>.
+        You are the lucky winner!
+    </p>
+}
+else
+{
+    <p>
+        The winning number was <span class="badge bg-primary">@winningNumber</span>, and you rolled <span class="badge bg-danger">@randomNumber</span>.
+        Sorry, you were off by <span class="badge bg-warning">@difference</span> this time...
+    </p>
+}
