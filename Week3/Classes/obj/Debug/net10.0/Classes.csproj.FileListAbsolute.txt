@@ -1,0 +1,15 @@
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\bin\Debug\net10.0\Classes.exe
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\bin\Debug\net10.0\Classes.deps.json
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\bin\Debug\net10.0\Classes.runtimeconfig.json
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\bin\Debug\net10.0\Classes.dll
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\bin\Debug\net10.0\Classes.pdb
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.AssemblyInfoInputs.cache
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.AssemblyInfo.cs
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.sourcelink.json
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.dll
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\refint\Classes.dll
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.pdb
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\Classes.genruntimeconfig.cache
+C:\Users\gabow\source\repos\gabowling37\IS7012\Week3\Classes\obj\Debug\net10.0\ref\Classes.dll
