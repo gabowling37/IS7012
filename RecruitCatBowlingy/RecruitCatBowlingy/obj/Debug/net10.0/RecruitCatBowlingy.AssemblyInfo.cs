@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecruitCatBowlingy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+161a96fd4b71b3b601d09372b4a738f80cac8625")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6572b27b4da66ab5d24f490592ba164bb158cc30")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecruitCatBowlingy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecruitCatBowlingy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

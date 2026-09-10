@@ -12,37 +12,37 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecruitCatBowlingy
 build_property.RootNamespace = RecruitCatBowlingy
-build_property.ProjectDir = C:\Users\gabow\source\repos\gabowling37\IS7012\RecruitCatBowlingy\RecruitCatBowlingy\
+build_property.ProjectDir = C:\Users\bowlingy\source\repos\IS7012\RecruitCatBowlingy\RecruitCatBowlingy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gabow\source\repos\gabowling37\IS7012\RecruitCatBowlingy\RecruitCatBowlingy
+build_property.MSBuildProjectDirectory = C:\Users\bowlingy\source\repos\IS7012\RecruitCatBowlingy\RecruitCatBowlingy
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gabow/source/repos/gabowling37/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/Index.cshtml]
+[C:/Users/bowlingy/source/repos/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabow/source/repos/gabowling37/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/OurTeam.cshtml]
+[C:/Users/bowlingy/source/repos/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/OurTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabow/source/repos/gabowling37/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/bowlingy/source/repos/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabow/source/repos/gabowling37/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/_ViewImports.cshtml]
+[C:/Users/bowlingy/source/repos/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabow/source/repos/gabowling37/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/_ViewStart.cshtml]
+[C:/Users/bowlingy/source/repos/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gabow/source/repos/gabowling37/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/Shared/_Layout.cshtml]
+[C:/Users/bowlingy/source/repos/IS7012/RecruitCatBowlingy/RecruitCatBowlingy/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gvt1s6pv3o

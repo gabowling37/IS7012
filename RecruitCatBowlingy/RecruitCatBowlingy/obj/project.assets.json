@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gabow\\.nuget\\packages\\": {},
+    "C:\\Users\\bowlingy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\RecruitCatBowlingy\\RecruitCatBowlingy\\RecruitCatBowlingy.csproj",
+      "projectUniqueName": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\RecruitCatBowlingy.csproj",
       "projectName": "RecruitCatBowlingy",
-      "projectPath": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\RecruitCatBowlingy\\RecruitCatBowlingy\\RecruitCatBowlingy.csproj",
-      "packagesPath": "C:\\Users\\gabow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabow\\source\\repos\\gabowling37\\IS7012\\Week2\\WebApp\\RecruitCatBowlingy\\RecruitCatBowlingy\\obj\\",
+      "projectPath": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\RecruitCatBowlingy.csproj",
+      "packagesPath": "C:\\Users\\bowlingy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gabow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bowlingy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -77,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
