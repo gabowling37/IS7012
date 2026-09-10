@@ -9,7 +9,6 @@ namespace Week3Exercise1Bowlingy
         public DateTime CreatedDate { get; set; }
         public int AccountHolderId { get; set; }
 	    public AccountHolder AccountHolder { get; set; }
-
     }
 
     public class AccountHolder
