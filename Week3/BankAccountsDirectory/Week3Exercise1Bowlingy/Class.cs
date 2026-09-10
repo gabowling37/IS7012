@@ -1,14 +1,15 @@
-﻿namespace Week3Exercise1Bowlingy
+namespace Week3Exercise1Bowlingy
 {
     public class BankAccount
     {
-        public string AccountNumber { get; set; }
+        public int BankAccountId { get; set; }
+		public string AccountNumber { get; set; }
         public decimal Balance { get; set; }
         public string AccountName { get; set; }
         public string AccountType { get; set; }
         public DateTime CreatedDate { get; set; }
         public int AccountHolderId { get; set; }
-
+	    public AccountHolder AccountHolder { get; set; }
     }
 
     public class AccountHolder
