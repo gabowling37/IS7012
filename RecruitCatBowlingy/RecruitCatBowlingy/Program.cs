@@ -1,4 +1,8 @@
+using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("RecruitCatBowlingyContext") ?? throw new InvalidOperationException("Connection string 'RecruitCatBowlingyContext' not found.");
+
+builder.Services.AddDbContext<RecruitCatBowlingyContext>(options => options.UseSqlServer(connectionString));
 
 // Add services to the container.
 builder.Services.AddRazorPages();

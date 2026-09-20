@@ -3,8 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\jobtitles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\jobtitles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\industries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\industries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\industries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\industries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\jobtitles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\jobtitles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\jobtitles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\jobtitles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\industries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\industries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\jobtitles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\jobtitles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\industries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\industries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\industries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\industries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\jobtitles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +103,52 @@
       "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\companies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\companies\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\candidates\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\candidates\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\recruitcatbowlingycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\recruitcatbowlingycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|c:\\users\\bowlingy\\source\\repos\\is7012\\recruitcatbowlingy\\recruitcatbowlingy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80EB2ED-79D7-0414-2F30-54AE9373AD17}|RecruitCatBowlingy\\RecruitCatBowlingy.csproj|solutionrelative:recruitcatbowlingy\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Migrations\\20260919172716_directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecruitCatBowlingy\\Migrations\\20260919172716_directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +158,487 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Industries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Industries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T20:30:28.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\JobTitles\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\JobTitles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T20:31:05.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:56:16.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:57:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Industries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Industries\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T19:58:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\JobTitles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\JobTitles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T19:59:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwGUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:56:42.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:27:34.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Company.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Models\\Company.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T17:03:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Candidate.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T21:11:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:56:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:55:56.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:43:14.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:41:20.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\JobTitles\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\JobTitles\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:50:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Industries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Industries\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:49:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:46:59.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\JobTitles\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\JobTitles\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T19:59:36.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Industries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Industries\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T20:00:09.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:56:03.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:44:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Industries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Industries\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Industries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:48:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Create.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\JobTitles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\JobTitles\\Create.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\JobTitles\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:49:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Industry.cs",
               "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Industry.cs",
               "RelativeDocumentMoniker": "RecruitCatBowlingy\\Models\\Industry.cs",
               "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Industry.cs",
               "RelativeToolTip": "RecruitCatBowlingy\\Models\\Industry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T21:13:13.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
               "Title": "JobTitle.cs",
               "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\JobTitle.cs",
               "RelativeDocumentMoniker": "RecruitCatBowlingy\\Models\\JobTitle.cs",
               "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\JobTitle.cs",
               "RelativeToolTip": "RecruitCatBowlingy\\Models\\JobTitle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T21:12:55.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Company.cs",
-              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Company.cs",
-              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Models\\Company.cs",
-              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Company.cs",
-              "RelativeToolTip": "RecruitCatBowlingy\\Models\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T21:12:21.117Z",
+              "WhenOpened": "2026-09-19T20:05:11.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Candidate.cs",
-              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Models\\Candidate.cs",
-              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Models\\Candidate.cs",
-              "RelativeToolTip": "RecruitCatBowlingy\\Models\\Candidate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-10T21:11:58.756Z",
+              "WhenOpened": "2026-09-19T20:28:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T17:05:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:22:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T19:57:43.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T17:00:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Candidates\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T19:50:02.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T17:06:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Companies\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T17:02:10.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RecruitCatBowlingyContext.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\RecruitCatBowlingyContext.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\RecruitCatBowlingyContext.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\RecruitCatBowlingyContext.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\RecruitCatBowlingyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:55:45.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20260919172716_directors.cs",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Migrations\\20260919172716_directors.cs",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Migrations\\20260919172716_directors.cs",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Migrations\\20260919172716_directors.cs",
+              "RelativeToolTip": "RecruitCatBowlingy\\Migrations\\20260919172716_directors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T17:27:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatBowlingy\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bowlingy\\source\\repos\\IS7012\\RecruitCatBowlingy\\RecruitCatBowlingy\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RecruitCatBowlingy\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-19T17:22:46.603Z",
               "EditorCaption": ""
             }
           ]
